@@ -1,0 +1,5 @@
+/workspace/NC_045808_EarlWorkshop.fasta
+earlGrey -g /workspace/NC_045808_EarlWorkshop.fasta
+-s monarchDemo \ 
+-o /workspace/ \
+-t 8
